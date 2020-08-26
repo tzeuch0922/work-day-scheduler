@@ -16,4 +16,4 @@ Scheduler used for keeping your day organized.
 ## Potential Future Improvements
 * Indicator to show whether edited data is saved or not.
 * Someway to remove items on list without deleting data and saving. Too much hassle for average user.
-* Maybe clear data when the day changes. Or at least allowing user to pick, if they'd prefer that setting so they aren't looking at old schedule that may mess up their day.
+* Maybe clear data when the day changes. Or at least allowing user to pick if they'd prefer that setting, so they aren't looking at an old schedule. That may mess up their day.
