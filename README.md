@@ -10,8 +10,8 @@ Scheduler used for keeping your day organized.
 
 ## Site Images
 
-!["Top of webpage"](./assets/images/top-webpage.png)
-!["Bottom of webpage"](./assets/images/bottom-webpage.png)
+!["Top of webpage"](./assets/images/top-webpage.PNG)
+!["Bottom of webpage"](./assets/images/bottom-webpage.PNG)
 
 ## Potential Future Improvements
 * Indicator to show whether edited data is saved or not.
