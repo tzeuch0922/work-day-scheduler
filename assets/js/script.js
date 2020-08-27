@@ -7,6 +7,10 @@ var timeblocks = [];
 // setup savebtns to add event listeners.
 var savebtns = [];
 
+// Get current day and set the correct value on front page
+var day = moment().format("dddd, MMMM Do");
+$("#currentDay").text(day);
+
 // Add timeblocks and savebuttons to arrays
 for(var i = 9; i <= 17; i++)
 {
